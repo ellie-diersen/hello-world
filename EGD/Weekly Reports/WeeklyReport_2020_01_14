@@ -1,0 +1,64 @@
+# Weekly Progress Report
+
+| Name | Week Beginning |
+| --- | --- |
+| Alex VandeLoo | 2019/12/10 |
+
+## Action Items
+
+Use this section to give a short list of necessary action items for your weekly meeting.  This should be a set of tasks
+and discussions that you need to accomplish during the meeting.
+
+[X] Pixhawk order needs to be confirmed
+
+[X] Do we have more info about the motor going faster?a
+
+## Objectives
+
+Use this section to copy the objectives you set last week, i.e., this is the list you set for what you would
+accomplish by this date.  Do not make changes to your objectives here, just copy verbatim.  This provides
+a helpful comparison of where you planned to be.
+
+[X] Ground test electronics
+
+## Deliverables
+
+Use this section to copy the concrete deliverables you set last week, i.e., this is the list you set for what you would
+concretely deliver by this date.  Do not make changes to your deliverables here, just copy.  Mark check boxes for those
+items which were completed.
+
+[X] Extend Servo Wires
+
+[X] Integrate Electronics
+
+## Road Blocks
+
+Use this section to describe roadblocks encountered when working towards your objectives and deliverables, both which may
+have slowed/stopped progress for last week, or which you forsee impeding progress in the near future.
+Be brief, but give all necessary details.
+
+We were able to fly this week so the electrical team did have everything in on time. The main roadblock seemed to be the motor and it not producing enough thrust. We are looking at some different ways we can fix this for the next flight.
+
+## Accomplishments and Narrative
+
+Give a short, but descriptive, accounting for your accomplishments during the previous week while working
+towards your objectives and deliverables.
+
+We tried to fly this week. We were able to get all the electronics integrated to the structure and test everything. It seemed like the control surfaces were working how we wanted them to. The motor needed some calibration and in the end we were not able to sustain the flight.
+
+## Objectives for next week
+
+Set your objectives for next week.  What will you accomplish for next week?  Use *action verbs* to specify
+*demonstrable* and *measurable* outcomes for these objectives.  Good objectives are *meaningful*,
+*measurable*, *distinctive*, and *aligned/consistent* with your plan of work for the trimester.  Good
+verbs are ones like *compile, identify, create, plan, revise, analyze, design, select, utilize, apply,
+demonstrate, use, explain, predict, assess, compare, critique, outline*, or *evaluate*.
+
+[ ] Look into speeding up the motor
+
+## Deliverables for next week
+
+Set your concrete deliverables for next week.  Concrete deliverables all have outcomes that can be
+shared as a document and include reports, test results, drawings, data files, code, demonstrations, notes, etc.
+
+[ ] Semester Paper
